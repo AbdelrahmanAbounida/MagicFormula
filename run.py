@@ -5,11 +5,11 @@ password = "" # enter your password
 stocks = 50
 market_cap = 230
 
-# here is a proxy of Brazil
+# some random proxy 
 proxy = '179.127.241.199:53653'
 a = Magic(username,password,stocks,market_cap,proxy)
 
-# this is a sample website that I scrape some data from but now it is supposed that the browser is of Brazil Proxy not Germany
+# this is a sample website that I scrape some data from but we can change the browser proxy each time we scrape the website
 
 a.login()
 a.fill_input()
