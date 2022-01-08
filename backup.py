@@ -1,7 +1,7 @@
 from main import Magic
 
-username = "abdelrahmanaboneda@gmail.com"
-password = "Aa2964079"
+username = "" # enter your username
+password = "" # enter your password
 stocks = 50
 market_cap = 230
 
